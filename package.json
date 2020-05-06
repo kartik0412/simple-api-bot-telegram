@@ -8,9 +8,12 @@
   },
   "author": "kartik",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kartik0412/simple-api-bot-telegram"
+},
   "dependencies": {
     "axios": "^0.19.2",
-    "fs": "0.0.1-security",
     "telegraf": "^3.38.0"
   }
 }
