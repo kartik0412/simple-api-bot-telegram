@@ -1,7 +1,7 @@
 const dogbreeds = require("./dogbreeds");
 const axios = require("axios");
 const { Telegraf } = require("telegraf");
-const bot = new Telegraf("1210345734:AAFHKnovA8xRixyUezp-r4OhYxOhuHSc7Zw");
+const bot = new Telegraf("YOUR_TOKEN_HERE");
 
 const startMessage = `/fortune - _get fortune cookie quote_
 /cat - _get random cat pic_
